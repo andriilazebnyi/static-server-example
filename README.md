@@ -1,7 +1,7 @@
 Node static server example
 ==========================
 
-NodeJS http server to server static files.
+NodeJS http server that serves static files.
 
 By default serves files from `./public` folder. See `index.js` for details.
 
